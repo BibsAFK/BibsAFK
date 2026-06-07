@@ -8,33 +8,27 @@ Currently exploring:
 * Digital Forensics
 * Data Analytics
 
-## Deployed & Client Projects
+## Client Projects
 
-### -Coral Inn Residency Website
+### Coral Inn Residency Website
 
-Website developed and deployed for a residency business.
+Designed, developed, and deployed a responsive website for a residency business in Kerala. The website provides essential information with a clean, user-friendly design and a seamless experience across devices.
 
-### -Coral Inn Residency System
+## Personal Projects
 
-Management and booking system built for operational use.
+### AMR Quest
 
-## Learning Projects
+An educational game focused on antimicrobial resistance awareness, developed as an easy-to-understand explanation of AMRX. This mini game was created to explain the concept in a gamified way.
 
-### -AMR Quest
+### Coding Club Logo
 
-Educational antimicrobial resistance awareness project.
+First Prize Winner in CODELOGO, a logo design competition organized by the Coding Club of Amal Jyothi College of Engineering (Autonomous). This Python-based logo generation project was selected as the official competition logo.
 
-### -Coding Club Logo
+## Current Work
 
-Python-generated logo project.
+* Coral Inn Residency System (In Progress) – A management system being developed to streamline residency operations, including bookings and guest management.
+* Casa Vouge Website (In Progress) – A business website for an Arabian company, currently under development.
 
-## Currently Learning
+## Learning
 
-* Linux
-* Networking
-* Cybersecurity Fundamentals
-* Data Analytics
-
-## Connect
-
-LinkedIn: linkedin.com/in/bibin-k-biju
+Currently learning Linux, Networking Fundamentals, Cybersecurity, Digital Forensics, Data Analytics, and Advanced Excel.
