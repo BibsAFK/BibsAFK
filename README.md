@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Bibin
 
-<!--
-**BibsAFK/BibsAFK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering Graduate
 
-Here are some ideas to get you started:
+Currently exploring:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Cybersecurity
+* Digital Forensics
+* Data Analytics
+
+## Deployed & Client Projects
+
+### -Coral Inn Residency Website
+
+Website developed and deployed for a residency business.
+
+### -Coral Inn Residency System
+
+Management and booking system built for operational use.
+
+## Learning Projects
+
+### -AMR Quest
+
+Educational antimicrobial resistance awareness project.
+
+### -Coding Club Logo
+
+Python-generated logo project.
+
+## Currently Learning
+
+* Linux
+* Networking
+* Cybersecurity Fundamentals
+* Data Analytics
+
+## Connect
+
+LinkedIn: linkedin.com/in/bibin-k-biju
