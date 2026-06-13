@@ -14,6 +14,10 @@ Currently exploring:
 
 Designed, developed, and deployed a responsive website for a residency business in Kerala. The website provides essential information with a clean, user-friendly design and a seamless experience across devices.
 
+### Casa Vouge Website
+
+Designed, developed, and successfully published a professional business website for Casa Vouge, a company based in Saudi Arabia. Built to strengthen the company's online presence through modern design, service presentation, and responsive performance across all devices.
+
 ## Personal Projects
 
 ### AMR Quest
@@ -27,7 +31,6 @@ First Prize Winner in CODELOGO, a logo design competition organized by the Codin
 ## Current Work
 
 * Coral Inn Residency System (In Progress) – A management system being developed to streamline residency operations, including bookings and guest management.
-* Casa Vouge Website (In Progress) – A business website for an Arabian company, currently under development.
 
 ## Learning
 
