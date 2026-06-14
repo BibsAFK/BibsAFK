@@ -14,7 +14,7 @@ I use this space to document projects, share what I'm building, and track my lea
 
 * **Coding Club Logo** – Winning design from CODELOGO, a logo design competition conducted by the Coding Club of Amal Jyothi College of Engineering.
   
-➡️ [View Logo](https://github.com/BibsAFK/Coding-Club-Logo))
+➡️ [View Logo](https://github.com/BibsAFK/Coding-Club-Logo)
 
 ### Client Projects
 
