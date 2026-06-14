@@ -25,7 +25,8 @@ Source code and certain project details are not publicly available due to client
 
 ## Currently Building
 
-* **Coral Inn Residency System** *(Work in Progress)*
+* **Coral Inn Residency System** *(Phase 1 Done)*
+  
   A management system focused on streamlining residency operations and booking workflows.
 
 ## Learning
