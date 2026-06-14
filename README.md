@@ -9,6 +9,7 @@ I use this space to share projects I’ve worked on and track what I’m learnin
 ### Personal Projects
 
 * **AMR Quest** – Interactive web experience built to raise awareness about Antimicrobial Resistance (AMR). Created alongside our final-year project, **AMR-X**, which won recognition at our project expo.
+* 
 ➡️ **[View AMR Quest](https://amr-quest.vercel.app/)**
 
 * **Coding Club Logo** – Winning design from CODELOGO, a logo design competition conducted by the Coding Club of Amal Jyothi College of Engineering.
@@ -16,10 +17,9 @@ I use this space to share projects I’ve worked on and track what I’m learnin
 
 ### Client Projects
 
-* **Coral Inn Residency Website** – Responsive business website designed and deployed for a residency in Kerala.
-* **Casa Vouge Website** – Business website developed and published for a company based in Saudi Arabia.
+I've done some projects for some clients. Check it out. (Code and other info is provate for client saftey.)
 
-➡️ [**View Client Projects**](YOUR_CLIENT_PROJECTS_LINK)
+➡️ [View Client Projects](https://github.com/BibsAFK/client-projects)
 
 ## Currently Building
 
