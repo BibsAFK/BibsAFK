@@ -40,4 +40,4 @@ Source code and certain project details are not publicly available due to client
 
 ## Find Me
 
-* LinkedIn: [ME:](https://www.linkedin.com/in/bibin-k-biju/)
+* LinkedIn: [Connect](https://www.linkedin.com/in/bibin-k-biju/)
