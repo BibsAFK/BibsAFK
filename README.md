@@ -41,4 +41,4 @@ Source code and certain project details are not publicly available due to client
 
 ## Find Me
 
-🔗 [LinkedIn](https://www.linkedin.com/in/bibin-k-biju/)
+LinkedIn: 🔗 https://www.linkedin.com/in/bibin-k-biju/
