@@ -10,7 +10,7 @@ I use this space to document projects, share what I'm building, and track my lea
 
 * **AMR Quest** – Interactive educational web experience built to raise awareness about Antimicrobial Resistance (AMR). Developed as a companion project for AMR-X to help explain AMR concepts through visual interaction and simple gameplay.
   
-[View AMR Quest](https://amr-quest.vercel.app)
+[View AMR Quest](https://github.com/BibsAFK/AMRQuest)
 
 * **Coding Club Logo** – Winning design from CODELOGO, a logo design competition conducted by the Coding Club of Amal Jyothi College of Engineering.
   
