@@ -1,37 +1,42 @@
-# Hi, I'm Bibin
+# Hi, I'm Bibin 
 
-Computer Science Engineering Graduate
+CSE graduate exploring cybersecurity, digital forensics, data analytics, and software development.
 
-Currently exploring:
+I use this space to share projects I’ve worked on and track what I’m learning along the way.
 
-* Cybersecurity
-* Digital Forensics
-* Data Analytics
+## Projects
 
-## Client Projects
+### Personal Projects
 
-### Coral Inn Residency Website
+* **AMR Quest** – Interactive web experience built to raise awareness about Antimicrobial Resistance (AMR). Created alongside our final-year project, **AMR-X**, which won recognition at our project expo.
+➡️ **[View AMR Quest](https://amr-quest.vercel.app/)**
 
-Designed, developed, and deployed a responsive website for a residency business in Kerala. The website provides essential information with a clean, user-friendly design and a seamless experience across devices.
+* **Coding Club Logo** – Winning design from CODELOGO, a logo design competition conducted by the Coding Club of Amal Jyothi College of Engineering.
 
-### Casa Vouge Website
 
-Designed, developed, and successfully published a professional business website for Casa Vouge, a company based in Saudi Arabia. Built to strengthen the company's online presence through modern design, service presentation, and responsive performance across all devices.
+### Client Projects
 
-## Personal Projects
+* **Coral Inn Residency Website** – Responsive business website designed and deployed for a residency in Kerala.
+* **Casa Vouge Website** – Business website developed and published for a company based in Saudi Arabia.
 
-### AMR Quest
+➡️ [**View Client Projects**](YOUR_CLIENT_PROJECTS_LINK)
 
-An educational game focused on antimicrobial resistance awareness, developed as an easy-to-understand explanation of AMRX. This mini game was created to explain the concept in a gamified way.
+## Currently Building
 
-### Coding Club Logo
-
-First Prize Winner in CODELOGO, a logo design competition organized by the Coding Club of Amal Jyothi College of Engineering (Autonomous). This Python-based logo generation project was selected as the official competition logo.
-
-## Current Work
-
-* Coral Inn Residency System (In Progress) – A management system being developed to streamline residency operations, including bookings and guest management.
+* **Coral Inn Residency System** *(Work in Progress)*
+  A management system focused on streamlining residency operations and booking workflows.
 
 ## Learning
 
-Currently learning Linux, Networking Fundamentals, Cybersecurity, Digital Forensics, Data Analytics, and Advanced Excel.
+```text
+Linux
+Networking
+Cybersecurity
+Digital Forensics
+Data Analytics
+Advanced Excel
+```
+
+## Find Me
+
+* LinkedIn: [ME:](https://www.linkedin.com/in/bibin-k-biju/)
