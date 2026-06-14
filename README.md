@@ -13,7 +13,8 @@ I use this space to document projects, share what I'm building, and track my lea
 ➡️ [View AMR Quest](https://amr-quest.vercel.app)
 
 * **Coding Club Logo** – Winning design from CODELOGO, a logo design competition conducted by the Coding Club of Amal Jyothi College of Engineering.
-
+  
+➡️ [View Logo](https://amr-quest.vercel.app)
 
 ### Client Projects
 
