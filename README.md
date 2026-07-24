@@ -6,6 +6,12 @@ I use this space to document projects, share what I'm building, and track my lea
 
 ## Projects
 
+**Retail Performance Intelligence Platform** – End-to-end data analytics project that transforms nearly 10,000 retail transactions into actionable business insights using Python, SQL, SQLite, and Power BI.
+
+  Features automated data processing, SQL analytics, KPI reporting, and a three-page interactive Power BI dashboard.
+
+[View Project](https://github.com/BibsAFK/retail-analytics)
+
 ### Personal Projects
 
 * **AMR Quest** – Interactive educational web experience built to raise awareness about Antimicrobial Resistance (AMR). Developed as a companion project for AMR-X to help explain AMR concepts through visual interaction and simple gameplay.
