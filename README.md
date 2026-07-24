@@ -1,7 +1,6 @@
 # Hi, I'm Bibin 
 
-CSE graduate exploring cybersecurity, digital forensics, data analytics, and software development.
-
+CSE graduate passionate about Data Analytics, Cybersecurity, Digital Forensics, and building practical software solutions.
 I use this space to document projects, share what I'm building, and track my learning journey.
 
 ## Projects
@@ -32,18 +31,18 @@ Source code and certain project details are not publicly available due to client
 
 ## Currently Building
 
-* **Coral Inn Residency System** *(Phase 1 Done)*
-  
-  A management system focused on streamlining residency operations and booking workflows.
+• Cybersecurity Projects
+• Data Analytics Portfolio
 
 ## Learning
 
-- Linux
-- Networking
-- Cybersecurity
-- Digital Forensics
-- Data Analytics
-- Advanced Excel
+• Data Analytics
+• Power BI
+• SQL
+• Python for Data Analysis
+• Cybersecurity
+• Digital Forensics
+• Linux
 
 ## Find Me
 
