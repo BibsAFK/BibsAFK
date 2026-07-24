@@ -8,7 +8,7 @@ I use this space to document projects, share what I'm building, and track my lea
 
 ### Personal Projects
 
-**Retail Performance Intelligence Platform** – End-to-end data analytics project that transforms nearly 10,000 retail transactions into actionable business insights using Python, SQL, SQLite, and Power BI.
+* **Retail Performance Intelligence Platform** – End-to-end data analytics project that transforms nearly 10,000 retail transactions into actionable business insights using Python, SQL, SQLite, and Power BI.
 
   Features automated data processing, SQL analytics, KPI reporting, and a three-page interactive Power BI dashboard.
 
